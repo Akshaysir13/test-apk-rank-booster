@@ -6,7 +6,29 @@ const ADMIN_PASSWORD = 'admin123';
 
 const initialAccounts: UserAccount[] = [
   { email: ADMIN_EMAIL, password: ADMIN_PASSWORD, role: 'admin', approved: true },
-  { email: 'test@gmail.com', password: 'test123', role: 'student', approved: true },
+  { email: 'aditidhunde19@gmail.com', password: 'Aditidhunde19', role: 'student', approved: true },
+{ email: 'dev879706@gmail.com', password: 'Mithunbplan', role: 'student', approved: true },
+{ email: 'Rubalkaur495@gmail.com', password: 'Rubalkaur02', role: 'student', approved: true },
+{ email: 'santoshbalakisan@gmail.com', password: '@praveenw2', role: 'student', approved: true },
+{ email: 'krushilviramgama243@gmail.co', password: '2425', role: 'student', approved: true },
+{ email: 'nainasharma7762@gmail.com', password: '9', role: 'student', approved: true },
+{ email: 'manasvirai2007@gmail.com', password: 'Manasvi@04', role: 'student', approved: true },
+{ email: 'tabbukumari46@gmail.com', password: '030303', role: 'student', approved: true },
+{ email: 'marathadeepakchavhan@gmail.com', password: 'Maratha', role: 'student', approved: true },
+{ email: 'yashasgpawar6@gmail.com', password: '1018', role: 'student', approved: true },
+{ email: 'mdarifexamuse@gmail.com', password: 'Saheen123', role: 'student', approved: true },
+{ email: 'swetasingh242005@gmail.com', password: 'Sweta123', role: 'student', approved: true },
+{ email: 'pawanshakti0909@gmail.com', password: 'Sharma@77', role: 'student', approved: true },
+{ email: 'pratyushvadhwani@gmail.com', password: 'Pratyush@123', role: 'student', approved: true },
+{ email: 'stephinaantoa@gmail.com', password: 'Stephina@1509', role: 'student', approved: true },
+{ email: 'anjanaparida94@gmail.com', password: 'Sneha2009', role: 'student', approved: true },
+{ email: 'efrayamgunji@gmail.com', password: '7396807396', role: 'student', approved: true },
+{ email: 'Andhra Pradesh', password: 'Jeemains2026', role: 'student', approved: true },
+{ email: 'sudipdalvi18@gmail.com', password: '2510', role: 'student', approved: true },
+{ email: 'bhumikashar1807@gmail.com', password: 'bhumika@123', role: 'student', approved: true },
+{ email: 'harshjadhav01237890@gmail.com', password: 'HH@15072007', role: 'student', approved: true },
+{ email: 'saish.chavan007@gmail.com', password: 'saish123', role: 'student', approved: true },
+{ email: '@alabhyadeshmukhgmail.com', password: 'Alabhya_23', role: 'student', approved: true },
 ];
 
 interface LoginResult {
