@@ -24,13 +24,15 @@ const initialAccounts: UserAccount[] = [
 { email: 'stephinaantoa@gmail.com', password: 'Stephina@1509', role: 'student', approved: true },
 { email: 'anjanaparida94@gmail.com', password: 'Sneha2009', role: 'student', approved: true },
 { email: 'efrayamgunji@gmail.com', password: '7396807396', role: 'student', approved: true },
-{ email: 'Andhra Pradesh', password: 'Jeemains2026', role: 'student', approved: true },
+{ email: 'Manognyaagalla@gmail.com', password: 'Jeemains2026', role: 'student', approved: true },
 { email: 'sudipdalvi18@gmail.com', password: '2510', role: 'student', approved: true },
 { email: 'bhumikashar1807@gmail.com', password: 'bhumika@123', role: 'student', approved: true },
 { email: 'harshjadhav01237890@gmail.com', password: 'HH@15072007', role: 'student', approved: true },
 { email: 'saish.chavan007@gmail.com', password: 'saish123', role: 'student', approved: true },
 { email: '@alabhyadeshmukhgmail.com', password: 'Alabhya_23', role: 'student', approved: true },
-  { email: 'adhirajanand21@gmail.com', password: 'adh@123', role: 'student', approved: true },
+  { email: 'adhirajanand21@gmail.com', password: 'adh@123', role: 'student', approved: true }, 
+  { email: 'kundankumarsharma7777@gmail.com', password: 'Sharma@77', role: 'student', approved: true },
+  
 ];
 
 interface LoginResult {
