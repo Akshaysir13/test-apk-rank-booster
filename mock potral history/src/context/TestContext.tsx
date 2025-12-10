@@ -4533,10 +4533,10 @@ const sampleQuestions: Question[] = [
   {
     id: 22,
     question: "A building plot of 120 m × 80 m is represented on a blueprint with a scale of 1:400. What size is shown on the blueprint?",
-    optionA: "30 cm × 20 cm",
-    optionB: "300 cm × 200 cm",
-    optionC: "3 m × 2 m",
-    optionD: "0.3 m × 0.2 m",
+    optionA: "3 m × 2 m",
+    optionB: "3000 cm × 2000 cm",
+    optionC: "3 cm × 2 cm",
+    optionD: "30 cm × 20 cm",
     correctOption: "d"
   },
   {
@@ -4632,11 +4632,11 @@ const sampleQuestions: Question[] = [
   },
   {
     id: 31,
-    question: "A plot has an area of 1 hectare (10,000 sq.mt.). How much will it be on a scale of 1:100?",
+    question: "A plot has an area of 1 hectare. How much will it be on a scale of 1:100?",
     optionA: "10 sq.mt.",
-    optionB: "1 sq.mt.",
+    optionB: " 0.1 sq.mt.",
     optionC: "100 sq.mt.",
-    optionD: "0.01 sq.mt.",
+    optionD: "1 sq.mt.",
     correctOption: "d"
   },
   {
@@ -4950,7 +4950,7 @@ const initialTests: Test[] = [
 { id: 'JEE B.Arch PYQ 2024 April Attempt', name: 'JEE B.Arch PYQ 2024 April Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4050, 4100), category: 'pyq' },
 { id: 'JEE B.Arch PYQ 2025 January Attempt', name: 'JEE B.Arch PYQ 2025 January Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4100, 4150), category: 'pyq' },
 { id: 'JEE B.Arch PYQ 2025 April Attempt', name: 'JEE B.Arch PYQ 2025 April Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4150, 4200), category: 'pyq' },
-{ id: 'latest pattern test', name: 'Mock 1 (2026)', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4200, 4250), category: 'latest' }
+{ id: 'latest pattern test', name: 'Mock 1 (2026)', description: 'Solve the expected paper of this year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4200, 4250), category: 'latest' }
 
  ];
 
