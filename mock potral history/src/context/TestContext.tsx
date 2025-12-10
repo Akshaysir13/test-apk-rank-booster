@@ -4426,8 +4426,8 @@ const sampleQuestions: Question[] = [
     image: "https://drive.google.com/thumbnail?id=1xDEpAgopLngdzF40hG1RkIiLLd4qwvtF&sz=w1000",
     optionA: "a",
     optionB: "d",
-    optionC: "b",
-    optionD: "c",
+    optionC: "c",
+    optionD: "b",
     correctOption: "d"
   },
   {
@@ -4867,12 +4867,12 @@ export const testCategories: TestCategory[] = [
 
 const initialTests: Test[] = [
 //{ id: 'White Mock Test 1', name: 'White Mock Test 1', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(0, 50), category: 'white' },
-//{ id: 'White Mock Test 2', name: 'White Mock Test 2', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(50, 100), category: 'white' },
+{ id: 'White Mock Test ', name: 'White Mock Test ', description: 'Mock test based on Actual PYQ ( easy )', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(50, 100), category: 'white' },
 //{ id: 'White Mock Test 3', name: 'White Mock Test 3', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(100, 150), category: 'white' },
 //{ id: 'White Mock Test 4', name: 'White Mock Test 4', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(150, 200), category: 'white' },
 //{ id: 'White Mock Test 5', name: 'White Mock Test 5', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(200, 250), category: 'white' },
 //{ id: 'White Mock Test 6', name: 'White Mock Test 6', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(250, 300), category: 'white' },
-{ id: 'White Mock Test', name: 'White Mock Test', description: 'Mock test based on Actual PYQ ( Easy )', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(300, 350), category: 'white' },
+//{ id: 'White Mock Test 7', name: 'White Mock Test 7', description: 'Mock test based on Actual PYQ ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(300, 350), category: 'white' },
 //{ id: 'White Mock Test 8', name: 'White Mock Test 8', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(350, 400), category: 'white' },
 //{ id: 'Blue Mock Test 1', name: 'Blue Mock Test 1', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(400, 450), category: 'blue' },
 //{ id: 'Blue Mock Test 10', name: 'Blue Mock Test 10', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(450, 500), category: 'blue' },
