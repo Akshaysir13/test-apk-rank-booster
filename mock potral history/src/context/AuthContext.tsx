@@ -36,6 +36,8 @@ const initialAccounts: UserAccount[] = [
 { email: 'mahparaanjumsheikh@gmail.com', password: 'lastminpaperwork', role: 'student', approved: true },
   { email: 'sahooswastik29@gmail.com', password: '696969', role: 'student', approved: true },
   { email: 'arbazalam8854@gmail.com', password: 'arbaz82', role: 'student', approved: true },
+  { email: 'kulkarniavdhoot16@gmail.com', password: 'AVDH001', role: 'student', approved: true },
+  
   
   
 ];
