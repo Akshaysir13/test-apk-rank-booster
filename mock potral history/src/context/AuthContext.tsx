@@ -5,7 +5,7 @@ const ADMIN_EMAIL = 'admin@jee.com';
 const ADMIN_PASSWORD = 'admin123';
 
 const initialAccounts: UserAccount[] = [
- { email: 'akshaymoghe8@gmail.com', password: 'sweetakshay@13', role: 'admin', approved: true },
+ { email: 'akshaymoghe8@gmail.com', password: 'sweetakshay@13', role: 'Admin', approved: true },
   { email: 'akshaymoghe5@gmail.com', password: 'sweetakshay@13', role: 'student', approved: true },
   { email: 'aditidhunde19@gmail.com', password: 'Aditidhunde19', role: 'student', approved: true },
 { email: 'dev879706@gmail.com', password: 'Mithunbplan', role: 'student', approved: true },
